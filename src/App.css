@@ -36,3 +36,64 @@
     transform: rotate(360deg);
   }
 }
+
+
+ 
+
+*{
+background-color: orange; 
+}
+
+ .container{
+   margin-top: 10px;
+ }
+
+ .row{
+  margin-top: 10px;
+ }
+
+ .input{
+   margin-top: 30px;
+   margin-right: 3px;
+   background-color: white;
+   border: none;
+   width: 50%;
+ }
+
+ .button{
+   background-color:  black;
+   color: white;
+   font-weight: bolder;
+  align-content: center;
+   margin-left: 10px;
+ }
+
+ .button2{
+  background-color:  black;
+  color: white;
+  float: right;
+  height: 25px;
+  align-content: center;
+  font-weight: bolder;
+
+ }
+
+ .task{
+   margin-top: 30px;
+   width: 50%;
+   background-color: orange;
+   justify-content: center;
+   margin-left: auto;
+   margin-right: auto;
+   display: flex;
+ }
+
+ .para{
+  background-color: white;
+  border: 1p solid orangered;
+  background-color: orange;
+  height: 25px;
+margin-right: 50px;
+color: white;
+font-weight: bolder;
+ }
